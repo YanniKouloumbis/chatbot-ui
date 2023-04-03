@@ -1,6 +1,6 @@
 # Keyless Chatbot UI with WindowAI
 
-Keyless Chatbot UI allows simplifies the connection between the Chatbot UI kit and any chat model (OpenAI, Cohere, GPT) by leveraging [ChatbotUI](https://github.com/mckaywrigley/chatbot-ui) Frontend and [WindowAI]()) decentralized LLM key handling. 
+Keyless Chatbot UI allows simplifies the connection between the Chatbot UI kit and any chat model (OpenAI, Cohere, GPT) by leveraging [ChatbotUI](https://github.com/mckaywrigley/chatbot-ui) Frontend and [WindowAI](https://github.com/alexanderatallah/window.ai)) decentralized LLM key handling. 
 
 The idea is that as an LLM App developer, you shouldn't have to care about what models are being used and what are the users credentials. This is a huge friction point at the moment given that you have to either pay for the credits upfront or add a section for users to paste their own key (with the associated trust issues).
 
